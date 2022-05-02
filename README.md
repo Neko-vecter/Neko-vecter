@@ -1,5 +1,3 @@
-# Powered By Neko-vecter
-
 <img title="" src="resources/banner.png" alt="avatars">
 
 <br>
