@@ -10,8 +10,9 @@
 <div>
 <img align="right" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Neko-vecter&show_icons=true&theme=dracula" width="400" style="margin-bottom:1em;"/>
 
-<h2>Project List</h2>
+<h2>Project Currently in Progress</h2>
     <ul>
+        <li><a href="https://neo.bttwiki.com">BigTreeTech WiKi NEO</a></li>
         <li><a href="https://github.com/Neko-vecter/sensor-data-release">Sensor data release</a></li>
             <ul>
                 <li>Sensor config for printer</li>
