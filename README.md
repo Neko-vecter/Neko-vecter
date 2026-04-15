@@ -24,14 +24,13 @@
     </ul>
 </div>
 
-<p>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Neko-vecter&theme=github" alt="Profile summary" align="center"/>
-</p>
+<!-- <p>
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Neko-vecter&theme=github" alt="Profile summary" align="center"/>
+</p> -->
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Neko-vecter&show_icons=true&theme=default&count_private=true" alt="Neko-vecter's github stats" align="center"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neko-vecter&layout=compact" alt="Top Langs" align="center"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Neko-vecter&show_icons=true&theme=default" alt="Neko-vecter's github stats" align="center"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neko-vecter&layout=compact" alt="Top Langs" align="center"/>
 </p>
-
 
 </body>
