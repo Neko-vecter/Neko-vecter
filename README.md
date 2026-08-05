@@ -25,7 +25,7 @@
 </div>
 
 <p>
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Neko-vecter&theme=github_dark" alt="Profile summary" align="center"/>
+    <img height="180em" src="https://api.nekovecter.com/api/profile/card/neko-vecter/github_dark/0-profile-details.svg" alt="Profile summary" align="center"/>
 </p>
 
 </body>
