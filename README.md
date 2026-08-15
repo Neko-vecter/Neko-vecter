@@ -25,7 +25,11 @@
 </div>
 
 <p>
-    <img height="180em" src="https://api.nekovecter.com/api/profile/card/neko-vecter/github_dark/0-profile-details.svg" alt="Profile summary" align="center"/>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://api.nekovecter.com/api/profile/card/neko-vecter/github_dark/0-profile-details.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://api.nekovecter.com/api/profile/card/neko-vecter/github/0-profile-details.svg">
+        <img height="180em" alt="profile-details" src="https://api.nekovecter.com/api/profile/card/neko-vecter/github_dark/0-profile-details.svg">
+    </picture>
 </p>
 
 </body>
