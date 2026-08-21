@@ -3,10 +3,18 @@
 </head>
 <body>
 
-<img title="" src="resources/banner.png" alt="avatars" >
+<picture>
+    <img title="" src="resources/banner.png" alt="avatars" >
+</picture>
 
 <br>
-<h1><img src="https://avatars.githubusercontent.com/u/36069884" width="30"> Neko-vecter</h1>
+<h1>
+    <picture>
+        <img src="https://avatars.githubusercontent.com/u/36069884" width="30">
+    </picture>
+    Neko-vecter
+</h1>
+
 <div>
 
 <h3>Project Currently in Progress</h3>
