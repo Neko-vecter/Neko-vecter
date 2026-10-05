@@ -1,8 +1,3 @@
-<head>
-
-</head>
-<body>
-
 <picture>
     <img title="" src="resources/banner.png" alt="avatars" >
 </picture>
@@ -15,22 +10,18 @@
     Neko-vecter
 </h1>
 
-<div>
+### Project Currently in Progress
 
-<h3>Project Currently in Progress</h3>
-    <ul>
-        <li><a href="https://nekovecter.com/">Neko Knowledge Base</a></li>
-        <li><a href="https://github.com/Neko-vecter/moonraker-mirror-toolkit">Moonraker Mirror Toolkit</a></li>
-            <ul>
-                <li><a href="https://github.com/Neko-vecter/moonraker">Config mirror version Moonraker</a></li>
-            </ul>
-        <li><a href="https://github.com/Neko-vecter/OrcaSlicer">OrcaSlicer</a></li>
-        <li><a href="https://github.com/Neko-vecter/sensor-data-release">Sensor data release</a></li>
-            <ul>
-                <li>Sensor config for printer</li>
-            </ul>
-    </ul>
-</div>
+- [Neko Knowledge Base](https://nekovecter.com/)
+- i18n toolkit
+    - [i18n-toolkit lib and cli](https://github.com/Neko-vecter/neko-i18n-toolkit)
+    - [i18n-toolkit GUI](https://github.com/Neko-vecter/i18n-toolkit-gui)
+- [Moonraker Mirror Toolkit](https://github.com/Neko-vecter/moonraker-mirror-toolkit)
+    - [Config mirror version Moonraker](https://github.com/Neko-vecter/moonraker)
+- [OrcaSlicer](https://github.com/Neko-vecter/OrcaSlicer)
+- [Sensor data release](https://github.com/Neko-vecter/sensor-data-release)
+    - Measuring the Actual Values of a 3D Printer Nozzle Sensor
+    - Sensor Config for Klipper
 
 <p>
     <picture>
@@ -39,5 +30,3 @@
         <img height="180em" alt="profile-details" src="https://api.nekovecter.com/api/profile/card/neko-vecter/github_dark/0-profile-details.svg">
     </picture>
 </p>
-
-</body>
